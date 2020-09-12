@@ -1,9 +1,9 @@
 ScriptsOnlyBuild:
   usedScripts:
+    Assembly-CSharp-Editor.dll:
+    - PublisherReadmeEditor
     Assembly-CSharp.dll:
-    - PolyToolkitInternal.PtSettings
-    - TiltBrushToolkit.BrushDescriptor
-    - TiltBrushToolkit.BrushManifest
+    - PublisherReadme
     Unity.EditorCoroutines.Editor.dll:
     - AltspaceBuildWindow
     - UserPreferences
@@ -41,8 +41,6 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 108
       Script: {instanceID: 0}
-    - Class: 114
-      Script: {instanceID: 12600}
     - Class: 136
       Script: {instanceID: 0}
     - Class: 157
@@ -55,5 +53,4 @@ ScriptsOnlyBuild:
   platform: 5
   scenePathNames:
   - Assets/Altspace/Export/template.unity
-  playerPath: /Users/thomaspiccolo/Documents/Unity Tutorials/Introduction to Unity
-    1/Tutorial Lesson 1.1/Create with Code/Hello World 2/AltspaceTemp/AssetBundles/template.unity2018_1
+  playerPath: /Users/thomaspiccolo/Documents/GitHub/OceanWorld2/Hello World 2A/AltspaceTemp/AssetBundles/template.unity2018_1
