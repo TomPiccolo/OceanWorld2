@@ -1,7 +1,5 @@
 ScriptsOnlyBuild:
   usedScripts:
-    Assembly-CSharp-Editor.dll:
-    - PublisherReadmeEditor
     Assembly-CSharp.dll:
     - PublisherReadme
     Unity.EditorCoroutines.Editor.dll:
