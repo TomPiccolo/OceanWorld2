@@ -1,7 +1,5 @@
 ScriptsOnlyBuild:
   usedScripts:
-    Assembly-CSharp.dll:
-    - PublisherReadme
     Unity.EditorCoroutines.Editor.dll:
     - AltspaceBuildWindow
     - UserPreferences
